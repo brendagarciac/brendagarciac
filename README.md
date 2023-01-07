@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @brendagarciac
+- 👋 It's me! Hi! I’m @brendagarciac
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on any project that could develop my skills
