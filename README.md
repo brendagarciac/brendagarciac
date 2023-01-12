@@ -1,7 +1,7 @@
 - 👋 It's me! Hi! I’m @brendagarciac
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on any project that could develop my skills
+- 🦾 My passion is actively supporing Women in STEM
+- 💻 I’m looking to collaborate on any project that could help develop my skills
 - 📫 How to reach me: bgarciac2013@yahoo.com.mx
 
 <!---
