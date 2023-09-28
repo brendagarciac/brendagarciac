@@ -1,7 +1,7 @@
 - 👋 It's me! Hi! I’m @brendagarciac
 - 👀 I’m interested in Software Engineering
-- 🦾 My passion is actively supporing Women in STEM
-- 💻 I’m looking to collaborate on any project that could help develop my skills
+- 🦾 I am committed to representing & celebrating diverse voices in the tech community.
+- 💻 Always looking to collaborate on up and coming projects! 
 - 📫 How to reach me: bgarciac2013@yahoo.com.mx
 
 <!---
